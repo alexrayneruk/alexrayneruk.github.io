@@ -1,5 +1,5 @@
 # The Fezichive
-##### Written up by Un_Simp
+##### Although this is attached to the Alex Rayner name, it wasn't written by me; it was written by the lovely Un Simp and the opinions expressed by Un are of their own thought, not mine -Alex Rayner
 
 #### Transcription of all images will be shown in alt text [^1]
 #### out of respect some names have been censored
