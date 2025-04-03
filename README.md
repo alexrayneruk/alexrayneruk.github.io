@@ -1012,7 +1012,7 @@ Thank you Alex specifically for creating the Fezichive initially
 
 
 
-[^a]: Fez rebranded to Adam a few months after the release of this doc
+[^a]: Fez rebranded to Adam Arborough a few months after the release of this doc
 [^1]: All transcripts are [[sic]](https://en.wikipedia.org/wiki/Sic) apart from some situations where the OCR fucked up and I corrected it
 [^2]: not to be confused with [Sky UK Limited](https://en.wikipedia.org/wiki/Sky_UK)
 [^3]: Fezi uses They/Him pronouns, this post uses "He/Him" for consistency
