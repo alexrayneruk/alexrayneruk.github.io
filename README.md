@@ -1,11 +1,11 @@
-# The Fezichive
+# The Fezichive/ The Adamchive
 ##### Although this is attached to the Alex Rayner name, it wasn't written by me; it was written & created by the lovely Un Simp and the opinions expressed by Un are of their own thought, not mine -Alex Rayner
 
 #### Transcription of all images will be shown in alt text [^1]
 #### out of respect some names have been censored
 # DO NOT SEND ANY HARRASMENT TO ANYONE INVOLVED HERE, HARRASMENT GETS NOTHING DONE
 ## The Start
-On the 20th of June 2023, good friend and current Juroze member Skyla, posted a message to the Feziboy discord server concerning their relationship when Sky [^2] was only 16 and Fez into their 20's
+On the 20th of June 2023, good friend and current Juroze member Skyla, posted a message to the Feziboy discord server concerning their relationship when Sky [^2] was only 16 and Fez/Adam[^a] into their 20's
 
 > Hey everyone ! I know a lot of you know who I am so I hope that you all are aware that I am doing this for the greater good and safety of everybody here. If you are upset with me after this or do not agree with this, please let me know in DMS as they will be open. Other than that, after this is said and done, I will be leaving this server. When I was 16 and Fez was 20, I was invited to be in a polyamorous relationship with him and Circuit (also an adult). Obviously this would mean that Fez, a 20 yr old grown man had romantic/sexual feelings towards me, a 16 yr old child. Although I declined this offer, some time afterwards another person was added to the relationship. Another 16 yr old. They are still in this relationship, being actively groomed by 2 adults. I sincerely hope that they see the problem with this soon and can heal from the reality of being taken advantage of by people who are grown and should know better. Circuit themselves is also not an upstanding person. Extremely manipulative, guilt trips with very triggering topics (namely su!c!de), and even smaller things such as stealing art and abusing their power as admin and one of Fez’s partners. Everything that has been gathered on them will be in the screenshots shared below. Thank you all for some very fun memories and I hope there can still be peace within this server and within my friendships with people I’ve met through this server.
 
@@ -1012,7 +1012,7 @@ Thank you Alex specifically for creating the Fezichive initially
 
 
 
-
+[^a]: Fez rebranded to Adam a few months after the release of this doc
 [^1]: All transcripts are [[sic]](https://en.wikipedia.org/wiki/Sic) apart from some situations where the OCR fucked up and I corrected it
 [^2]: not to be confused with [Sky UK Limited](https://en.wikipedia.org/wiki/Sky_UK)
 [^3]: Fezi uses They/Him pronouns, this post uses "He/Him" for consistency
@@ -1024,22 +1024,3 @@ Thank you Alex specifically for creating the Fezichive initially
 [^9]: "fucking Oliver Tree fans think i'm a pedo." this was due to some messages being posted on the Oliver Tree discord about Fezi and the mods ran with it  <img src="otreesrv.png" width=300 />
 [^10]: [https://www.legislation.gov.uk/uksi/1995/3297/regulation/6/made](https://www.legislation.gov.uk/uksi/1995/3297/regulation/6/made)
 [^11]: "Gru From dispicable me" is Alex's nickname for Sky
-
-
-<div style="width: 100%; height: 60px; ">
-  <!-- Butoons -->
-      <a href="https://ibm.com/java" target="_parent"><img src="buttons/ibm-java.gif" class="buttons"/></a>
-      <a href="https://www.100gecs.com/" target="_parent"><img src="buttons/100gecs.gif" class="buttons"/></a>
-      <a href="https://www.old.reddit.com/r/FuckAdobe/" target="_parent"><img src="buttons/adobe_svg.gif" class="buttons"/></a>
-      <a href="https://www.old.reddit.com/r/Piracy/" target="_parent"><img src="buttons/copy_floppy.gif" class="buttons"/></a>
-      <a href="https://scp-wiki.wikidot.com/" target="_parent"><img src="buttons/e-scp.gif" class="buttons"/></a>
-      <a href="https://www.waterfox.net/" target="_parent"><img src="buttons/firefoxget.gif" class="buttons"/></a>
-      <a href="https://www.old.reddit.com/r/WindowsXP/" target="_parent"><img src="buttons/imissxp.gif" class="buttons"/></a>
-      <a href="https://archive.org" target="_parent"><img src="buttons/internetarchive.gif" class="buttons"/></a>
-      <a href="https://freemidi.org" target="_parent"><img src="buttons/midi_files_now.gif" class="buttons"/></a>
-      <a href="https://sillydog.org/netscape/verinfo.php" target="_parent"><img src="buttons/netscapeexplorer.gif" class="buttons"/></a>
-      <a><img src="buttons/parental.gif" class="buttons"/></a>
-      <a href="https://github.com/ungstein/OG-Steam-Library" target="_parent"><img src="buttons/steam.gif" class="buttons"/></a>
-      <a href="https://theoldnet.com" target="_parent"><img src="buttons/theoldnet_but.gif" class="buttons"/></a>
-      <a href="https://mariomasta64.me/" target="_parent"><img src="buttons/good_logo.png" class="buttons"/></a>
-</div>
